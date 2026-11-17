@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "lab-portfolio",
+    "slug": "lab-portfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-status-bar",
+      "expo-font"
+    ]
+  }
+}
